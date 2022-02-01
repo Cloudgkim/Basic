@@ -23,5 +23,5 @@ public class Main10950 {
 		for (int k : arr) {
 			System.out.println(k);
 		}
-	}S
+	}
 }
