@@ -13,14 +13,15 @@ public class Main02742 {
 		int n = sc.nextInt();
 		sc.close();
         
-		int i = 1;
+		
         
-		while(i <= n) {
-			System.out.println(i);
-			i++;
+		while(n > 0) {
+			System.out.println(n);
+			n--;
 		}
 	}
 }
+
 
 
 //﻿BufferReader - System.println.out﻿
